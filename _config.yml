@@ -1,6 +1,6 @@
 name: Talking Points
 favicon: null
-layout_spectrum: 0.14309308165684342
+layout_spectrum: 0.51833
 typography_spectrum: 0.7635445955675095
 title: Talking Points with Joshua Gadsby
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.10665533668361604
+  brandStrength: 0.625
   lightness: 0.9127966954838485
   saturation: 0.5514185067731887
   rhythmicContrast: 0.11207549646496773
