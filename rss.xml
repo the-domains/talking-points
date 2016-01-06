@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Talking Points]]></title>
-        <description><![CDATA[Talking Points]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Talking Points with Joshua Gadsby]]></title>
+        <description><![CDATA[Talking Points with Joshua Gadsby]]></description>
+        <link>https://thegrid.ai/talking-points/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 00:56:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 01:11:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/talking-points/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Discovering Contemporary Dance. ]]></title>
+            <description><![CDATA[<article><h1>Discovering Contemporary Dance. </h1><h2>“ Do you think in order to understand movement, you have to have moved yourself?”</h2><p>Every journey must start somewhere, mine started on October 7th, I was preoccupied with a burning question. My goal was to seek out a better understanding of the contemporary dance world, a world that I wanted to be a part of but had little practical experience of. A result of the past year or so has been the desire to attempt to design with a sense of ‘truth’. In the most basic of forms I suppose that to me, the truth of lighting dance would be to have an affinity to the movement. But must I be able to move in order to portray the true intent of movement? This was the genesis of my exploration, I set about planning forwards, those I would want to meet, questions I must ask.</p></article>]]></description>
+            <link>https://thegrid.ai/talking-points/discovering-contemporary-dance/index.html</link>
+            <guid isPermaLink="false">cdd5f20b-37c7-4a41-85fa-9e74ae2f4805</guid>
+            <pubDate>Wed, 06 Jan 2016 01:10:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4242ddb7-997c-4783-b559-711c314f1859.jpg">]]></description>
+            <link>https://thegrid.ai/talking-points/58c35ee0-a12c-448d-8638-014530194105/index.html</link>
+            <guid isPermaLink="false">58c35ee0-a12c-448d-8638-014530194105</guid>
+            <pubDate>Wed, 06 Jan 2016 01:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/532da4ec-02a0-4a61-83bf-a77799d4b78e.jpg">]]></description>
+            <link>https://thegrid.ai/talking-points/a5175e7f-3e4d-4c67-8be5-f40843fb3532/index.html</link>
+            <guid isPermaLink="false">a5175e7f-3e4d-4c67-8be5-f40843fb3532</guid>
+            <pubDate>Wed, 06 Jan 2016 01:06:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><p>Hello! Welcome to the beginning of Talking Points, my attempt to decode the business of making theatre one interview at a time. </p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/talking-points/welcome/index.html</link>
             <guid isPermaLink="false">d0ff98b6-c493-4313-b8be-17c01743efd1</guid>
             <pubDate>Wed, 06 Jan 2016 00:56:42 GMT</pubDate>
         </item>
