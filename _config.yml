@@ -1,0 +1,28 @@
+name: Talking Points
+favicon: null
+layout_spectrum: 0.14309308165684342
+typography_spectrum: 0.7635445955675095
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.10665533668361604
+  lightness: 0.9127966954838485
+  saturation: 0.5514185067731887
+  rhythmicContrast: 0.11207549646496773
+purpose: []
